@@ -1,0 +1,138 @@
+main{
+  width:1280px;
+  margin-left:auto;
+  margin-right:auto;
+}
+header{
+  position:relative;
+  background-image: url(https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png);
+  background-position:center;
+  background-size:1280px 410px;
+  width:1280px;
+  height:410px;
+}
+h1{
+  color:#222222;
+}
+.title1{
+  position:absolute;
+  left:300px;
+  top:215px;
+  font-family: "Abril Fatface", cursive;
+  font-size:35px;
+  
+}
+
+.title2{
+   position:absolute;
+  bottom:0px;
+  left:300px;
+  font-family: "Abril Fatface", cursive;
+  font-size:70px;
+}
+
+.ul1{
+  width:700px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: "Josefin Sans", sans-serif;
+  font-size:20px;
+  line-height:150%;
+  margin-top:65px;
+}
+
+
+.id1{
+  position:relative;
+  display:block;
+  font-family: "Abril Fatface", cursive;
+  width:800px;
+  text-align:center;
+  background-color:#444444;
+  margin-left:auto;
+  margin-right:auto;
+  color:white;
+  font-size:50px;
+  padding-top:60px;
+  padding-bottom:60px;
+}
+
+blockquote::before {
+  content: '”';
+  color:white;
+  position:absolute;
+  top:-95px;
+  left:1px;
+  font-size:150px;
+  transform:rotate(180deg);
+}
+
+h2{
+  width:700px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: "Josefin Sans", sans-serif;
+  font-size:25px;
+}
+
+h3{
+  width:700px;
+  margin-top:50px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family:"Josefin Sans", sans-serif;
+  font-size:24px;
+  margin-bottom:2px;
+}
+
+h4{
+  width:735px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family:"Josefin Sans", sans-serif;
+  margin-top:0px;
+
+}
+
+p{
+  width:700px;
+  font-family:"Josefin Sans", san-serif;
+  margin-left:auto;
+  margin-right:auto;
+  font-size:15px;
+  line-height: 150%;
+  
+}
+
+#faith{
+  padding-left:60px;
+  text-align:left;
+  width:800px;
+}
+
+.list1{
+  width:600px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family:"Josefin Sans", sans-sherif;
+  font-size:20px;
+  line-height: 150%;
+}
+
+.supreme{
+  margin-top:5px;
+}
+
+.line{
+  width:800px;
+  height:4px;
+  background-color:#404040;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  margin-bottom:40px;
+}
+
+#personal{
+  margin-top:0px;
+}
